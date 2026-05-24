@@ -22,7 +22,7 @@ Dr. Swarna's Diabetes Care Centre offers comprehensive diabetes management, neur
 
 ## About this repository
 
-This repository hosts the static website for the clinic. It is published automatically via **GitHub Pages** — any commit pushed to the `main` branch is reflected on the live site within a few minutes.
+This repository hosts the static website for the clinic. It is published automatically via **GitHub Pages** — any commit pushed to the `master` branch is reflected on the live site within a few minutes.
 
 The site was initially built as a goodwill gesture by a patient after attending the Mega Diabetes & Fatty Liver Screening Camp on 24th May 2026.
 
